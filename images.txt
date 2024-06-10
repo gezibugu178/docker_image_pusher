@@ -1,3 +1,2 @@
 php
 kasmweb/nginx
-uptime-kuma
