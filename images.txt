@@ -1,3 +1,1 @@
-php
-kasmweb/nginx
-Uptime Kuma
+louislam/uptime-kuma:1
