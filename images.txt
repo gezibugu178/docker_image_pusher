@@ -1,1 +1,1 @@
-lscr.io/linuxserver/speedtest-tracker:latest
+bitnami/php-fpm
