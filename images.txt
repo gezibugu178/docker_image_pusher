@@ -1,1 +1,1 @@
-bahadoreng/php8.2-fpm-alpine
+prom/prometheus
