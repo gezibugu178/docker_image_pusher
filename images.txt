@@ -1,1 +1,3 @@
-henrywhitaker3/speedtest-tracker 
+nfqlt/php82-fpm
+princeamd/php82-fpm
+diveinteractive/php82-alpine
