@@ -1,1 +1,1 @@
-k4mrul/php8.2-fpm-nginx-laravel
+bahadoreng/php8.2-fpm-alpine
