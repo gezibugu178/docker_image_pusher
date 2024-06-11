@@ -1,1 +1,1 @@
-bitnami/php-fpm
+webdevops/php-nginx 
