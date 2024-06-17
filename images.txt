@@ -1,1 +1,1 @@
-qianjun/php
+lscr.io/linuxserver/speedtest-tracker:latest
