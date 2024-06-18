@@ -1,1 +1,1 @@
-minio/minio
+quay.io/minio/minio
