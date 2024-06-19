@@ -1,2 +1,2 @@
-eyeblue/tank
+eyeblue/tank:4.0.4
 mysql:5.7
