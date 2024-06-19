@@ -1,1 +1,2 @@
-cloudreve/cloudreve
+eyeblue/tank
+mysql:5.7
