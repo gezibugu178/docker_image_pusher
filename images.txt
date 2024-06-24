@@ -1,1 +1,2 @@
-xhofe/alist:main
+zabbix/zabbix-web-nginx-mysql:latest
+zabbix/zabbix-server-mysql:latest
