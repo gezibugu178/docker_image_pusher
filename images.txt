@@ -1,2 +1,1 @@
-grafana/grafana
-prom/node-exporterdocker
+prom/node-exporternetstat
