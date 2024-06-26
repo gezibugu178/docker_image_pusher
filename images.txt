@@ -1,2 +1,2 @@
-prom/prometheus:latest
+grafana/grafana
 prom/node-exporterdocker
