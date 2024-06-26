@@ -1,1 +1,2 @@
 prom/prometheus:latest
+prom/node-exporterdocker
