@@ -1,1 +1,1 @@
-prom/node-exporternetstat
+quay.io/prometheus/node-exporter
