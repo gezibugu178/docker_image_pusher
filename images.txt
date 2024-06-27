@@ -1,1 +1,2 @@
-quay.io/prometheus/node-exporter
+zabbix/zabbix-server-mysql:alpine-7.0-latest
+zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
