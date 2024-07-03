@@ -1,1 +1,1 @@
-xforty/checkmk
+linuxserver/healthchecks
