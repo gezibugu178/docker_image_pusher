@@ -1,1 +1,1 @@
-linuxserver/healthchecks
+healthchecks/healthchecks:vX.Y
