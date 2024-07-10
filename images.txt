@@ -1,1 +1,1 @@
-healthchecks/healthchecks:vX.Y
+redis:latest
