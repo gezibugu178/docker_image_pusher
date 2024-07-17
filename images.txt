@@ -1,1 +1,3 @@
-php
+phpipam/phpipam-www
+phpipam/phpipam-cron
+mariadb
