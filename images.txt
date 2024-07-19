@@ -1,1 +1,1 @@
-netboxcommunity/netbox
+webmin/webmin-base:latest
