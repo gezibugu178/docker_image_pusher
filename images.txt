@@ -1,1 +1,1 @@
-webmin/webmin-base:latest
+lazyteam/lazydocker
