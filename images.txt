@@ -1,1 +1,2 @@
-lazyteam/lazydocker
+gestioip/gestioip:3570
+mysql:5
