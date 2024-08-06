@@ -1,2 +1,1 @@
-gestioip/gestioip:3570
-mysql:5
+celaraze/chemex
