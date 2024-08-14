@@ -1,1 +1,1 @@
-seznam/ntpd
+nginx:latest@sha256:687e0e4a235ee770533f6c25fb5791b14d7b6aa603ba4ed724abbd2ed51ee11a
