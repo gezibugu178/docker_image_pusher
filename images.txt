@@ -1,1 +1,1 @@
-nginx:stable-alpine
+nginx:1.25.1
