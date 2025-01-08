@@ -1,1 +1,1 @@
-adolfintel/speedtest
+mindoc/mindoc
