@@ -1,1 +1,1 @@
-mindoc/mindoc
+onlyoffice/documentserver
