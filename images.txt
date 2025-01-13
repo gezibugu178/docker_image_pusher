@@ -1,1 +1,1 @@
-openkm/openkm-ce
+alfresco/alfresco-content-services
