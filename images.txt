@@ -1,1 +1,1 @@
-zmister/mrdoc:v9.0
+jonnyan404/mrdoc-alpine:0.8.1
