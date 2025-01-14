@@ -1,1 +1,1 @@
-jonnyan404/mrdoc-alpine:0.8.1
+jonnyan404/mrdoc-alpine
