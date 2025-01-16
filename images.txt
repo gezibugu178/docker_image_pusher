@@ -1,1 +1,1 @@
-jonnyan404/mrdoc-alpine:0.9.4
+jonnyan404/mrdoc-nginx
