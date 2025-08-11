@@ -1,1 +1,1 @@
-grafana/grafana:7.5.2
+influxdb:1.8.3
