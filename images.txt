@@ -1,1 +1,1 @@
-adolfintel/speedtest
+ghcr.io/librespeed/speedtest:latest
