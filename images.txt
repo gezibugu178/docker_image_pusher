@@ -1,1 +1,1 @@
-robinmanuelthiel/speedtest:latest
+grafana/grafana:7.5.2
