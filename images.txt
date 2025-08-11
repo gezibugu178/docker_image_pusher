@@ -1,1 +1,1 @@
-logicaldoc/logicaldoc-ce
+robinmanuelthiel/speedtest:latest
