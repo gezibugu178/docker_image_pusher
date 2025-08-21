@@ -1,1 +1,2 @@
-ghcr.io/operacle/checkcle
+ghcr.io/bluewave-labs/checkmate-backend-mono:latest
+ghcr.io/bluewave-labs/checkmate-mongo:latest
