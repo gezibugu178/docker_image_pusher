@@ -1,1 +1,1 @@
-ghcr.io/librespeed/speedtest:latest
+ghcr.io/operacle/checkcle
