@@ -1,1 +1,1 @@
-rustfs:latest
+rustfs/rustfs 
