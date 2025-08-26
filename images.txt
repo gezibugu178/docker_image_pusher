@@ -1,1 +1,1 @@
-star7th/coolmonitor:arm-latest
+rustfs:latest
