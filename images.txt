@@ -1,1 +1,1 @@
---platform=arm64 dbsyncer:latest
+--platform=arm64 crazylife/dbsyncer-web:latest
