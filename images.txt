@@ -1,1 +1,1 @@
-operacle/checkcle
+--platform=arm64 dbsyncer:latest
