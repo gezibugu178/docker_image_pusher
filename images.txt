@@ -1,1 +1,1 @@
---platform=arm64 library/mysql
+--platform=arm64 library/mysql:8.4.6
