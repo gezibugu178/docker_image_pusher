@@ -1,1 +1,1 @@
-xuxuclassmate/kingbase
+--platform=arm64 library/mysql
