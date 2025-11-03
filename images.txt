@@ -1,1 +1,1 @@
---platform=arm64 library/mysql:8.4.6
+--platform=arm64 crazymax/fail2ban:latest
